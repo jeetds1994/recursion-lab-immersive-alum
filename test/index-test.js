@@ -91,7 +91,7 @@ try {
 
       addUpTo([1, 4, 5, 3], 2);
 
-      expect(addUpTo.callCount).toEqual(3);
+      expect(addUpTo.callCount).toEqual(4);
     });
   });
 
